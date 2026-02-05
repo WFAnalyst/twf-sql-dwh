@@ -12,5 +12,5 @@ The first phase will focus on extracting data from various systems and loading i
 |Source| Load Strategy | Object Type(s) | Destination |
 |------|---------------|----------------|-------------|
 | FMS  | Incremental   | SQL Tables     | SQL DB      |
-| GMS  | Incremental   | JSOn Objects| SQL DB |
+| GMS  | Incremental   | JSON Objects| SQL DB |
 | Ops  | Incremental   | Flat Files | SQL DB |
